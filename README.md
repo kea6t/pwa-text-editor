@@ -75,7 +75,7 @@ This walkthrough video shows JATE:
 
 
 ## Usage
-* See the live version of the app here [Note Taker](https://pwa-jate-prod.herokuapp.com/)
+* See the live version of the app here [JATE](https://pwa-jate-prod.herokuapp.com/)
 
 ## Contributing
 :octocat: [kea6t](https://github.com/kea6t)
